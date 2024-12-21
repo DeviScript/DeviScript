@@ -39,22 +39,7 @@ Key skills from the certification include:
 ---
 
 ## 🚀 Featured Projects
-
-### [Budget Tracker](https://github.com/yourusername/budget-tracker)
-Track your expenses and income effortlessly. Built with React and Firebase.
-![Project Screenshot](https://via.placeholder.com/600x400)
-
-### [Task Manager](https://github.com/yourusername/task-manager)
-A sleek app to organize your to-do list. Built with Node.js and MongoDB.
-![Project Screenshot](https://via.placeholder.com/600x400)
-
-### [Authentication System](https://github.com/yourusername/auth-system)
-A secure and scalable user authentication system using Node.js, Express, and MongoDB. Features user registration, login, password reset, and JWT-based authentication.
-![Project Screenshot](https://via.placeholder.com/600x400)
-
-### [GraphQL API for eCommerce](https://github.com/yourusername/graphql-api-ecommerce)
-A GraphQL API for managing eCommerce data, including products, users, and orders. Built with Node.js, Express, and MongoDB.
-![Project Screenshot](https://via.placeholder.com/600x400)
+In Progress
 
 ---
 
