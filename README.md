@@ -1,98 +1,330 @@
-# ⚡ Brian Lockhart  
-### 🧠 Full-Stack Engineer | 🤖 Systems Thinker | 🌌 Builder of Digital Intelligence  
+# File: README.md
+<!-- ╔═════════════════════════════════════════════════════════════════╗
+     ║  Brian Lockhart — Profile README (Live, Self-Updating)         ║
+     ╚═════════════════════════════════════════════════════════════════╝ -->
 
-Welcome to the code dimension.  
-I architect intelligent, scalable systems that merge **creativity, automation, and human-centric design** — building technology that feels alive.  
+<h1 align="center">Brian Lockhart</h1>
+<p align="center"><em>Architecting adaptive systems • Full-Stack & AI • Building engines that learn</em></p>
 
-💼 [LinkedIn](https://www.linkedin.com/in/brianlockhart-deviscript/) • 🌐 [Bio Site](https://bio.site/brianlockhart) • 📬 [Email](mailto:DeviScript@gmail.com)
-
----
-
-## 🧩 About Me  
-I’m a **Full-Stack Developer** and **AI-driven problem solver** exploring the frontier where **software meets cognition**.  
-With a foundation in **social sciences** and a fascination for how humans interact with machines, I build tools that scale both **impact and insight**.  
-
-My current focus:  
-- Building **adaptive web systems** with **React**, **Next.js**, and **Node.js**  
-- Experimenting with **LLM-based automation** and **data-driven interfaces**  
-- Engineering **microservice architectures** with **GraphQL** and **serverless functions**  
-- Designing **modular, monetizable ecosystems** that integrate AI, UX, and commerce  
-
-🎓 Certified in **Full-Stack Web Development (UNC–Chapel Hill × edX)** — an immersive 24-week program emphasizing project-based mastery across full-stack architecture, CS fundamentals, and real-world deployments.
+<p align="center">
+  <a href="https://www.linkedin.com/in/brianlockhart-deviscript/">LinkedIn</a> •
+  <a href="https://bio.site/brianlockhart">Bio</a> •
+  <a href="mailto:DeviScript@gmail.com">Email</a>
+</p>
 
 ---
 
-## 🧠 Core Capabilities
-| Domain | Tech / Concepts |
-|:--|:--|
-| **Languages** | JavaScript, TypeScript, Python, SQL |
-| **Front-End Engineering** | React, Next.js, Tailwind CSS, Framer Motion |
-| **Back-End Systems** | Node.js, Express.js, PostgreSQL, MongoDB, Redis |
-| **APIs & Architecture** | GraphQL, REST, Microservices, WebSockets |
-| **DevOps & Cloud** | AWS, Render, Docker, CI/CD, Cloudflare |
-| **AI & Automation** | LLM APIs, Prompt Engineering, Data Pipelines |
-| **Testing & Performance** | Jest, Vitest, Playwright, Lighthouse |
-| **Tooling** | VS Code, Git, Postman, Insomnia |
+## Prime Directive
+Software shouldn’t sit still. I design **autonomous, composable systems**—apps that **adapt**, pipelines that **learn**, and products that **monetize themselves**.
+
+- Interfaces: **React/Next.js** with kinetic UI and typed contracts  
+- Systems: **Node.js/TypeScript/Python**, evented and observable  
+- Data plane: **PostgreSQL, MongoDB, Redis, Supabase**  
+- Cognition: **LLM orchestration, embeddings, retrieval, toolchains**  
+- Delivery: **AWS, Docker, Cloudflare, CI/CD**, latency as a feature
 
 ---
 
-## 🧮 Tech Stack Snapshot  
-![React](https://img.shields.io/badge/React-0A74DA?logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-3C873A?logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+## Architecture Snapshot
+```mermaid
+flowchart LR
+  U[User] -->|intent| UI[Next.js + Tailwind UI]
+  UI --> API[Node/TS Edge + GraphQL/REST]
+  API --> Q[Queue/Events]
+  API --> DB[(Postgres / Mongo)]
+  API --> V[Vector Index]
+  Q --> W[Workers]
+  W --> LLM[LLM Tools + Functions]
+  LLM --> V
+  W --> OBJ[S3/AWS/CF Assets]
+  click UI "https://github.com/brianlockhart-deviscript" "Profile"
+```
 
 ---
 
-## 🚀 Featured Projects *(select highlights)*  
-### ⚙️ **DeviScript AI Framework**
-> A modular automation engine blending GPT-powered intelligence with custom data pipelines for scalable content systems.  
-Stack: Next.js • TypeScript • Supabase • OpenAI API • AWS Lambda  
-
-### 🌐 **Neural Commerce Layer**
-> Adaptive micro-commerce architecture integrating affiliate logic, payment routing, and user intelligence modules.  
-Stack: Node.js • GraphQL • Redis • Stripe • WebSockets  
-
-### 🧭 **Cognitive Chat Architectures**
-> Framework for real-time, multi-agent interaction powered by contextual memory layers and vectorized embeddings.  
-Stack: React • Python • LangChain • Pinecone • Docker  
+## Project Nodes
+- **DeviScript** — modular automation core for AI-first content + commerce  
+- **Neural Layers** — multi-agent chat with contextual memory and graph logic  
+- **Synthwave** — generative UI components that self-style with runtime heuristics
 
 ---
 
-## 📊 Metrics & Activity
-<!--
-If images fail to load, it’s usually a rate limit on the public instance.
-Two fixes:
-1) Confirm username matches your GitHub handle exactly: brianlockhart-deviscript
-2) Self-host GitHub Readme Stats on Vercel (one-click) and replace the base URL below with your deployment URL.
--->
+## Signal Log (auto-generated)
+> This section is rewritten by a GitHub Action on a schedule. No external services.
 
-<!-- GitHub Readme Stats (primary) -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brianlockhart-deviscript&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=86400&theme=radical)
+### Weekly Pulse
+<!-- SIGNAL:PULSE:START -->
+_awaiting first run…_
+<!-- SIGNAL:PULSE:END -->
 
-<!-- Top Languages (use langs_count + card_width for stability) -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brianlockhart-deviscript&layout=compact&langs_count=10&card_width=360&cache_seconds=86400&theme=radical)
+### Recent Repositories
+<!-- SIGNAL:REPOS:START -->
+_awaiting first run…_
+<!-- SIGNAL:REPOS:END -->
 
-<!-- Optional lightweight badges that never break (leave commented or enable as fallback)
-![Followers](https://img.shields.io/github/followers/brianlockhart-deviscript?style=flat&label=Followers)
-![Profile Views](https://komarev.com/ghpvc/?username=brianlockhart-deviscript)
--->
-
----
-
-## ⚡ Philosophy  
-> “Code is the closest thing to thought made tangible.”  
-
-Every project I build is an experiment in **systems thinking**, **design intelligence**, and **human–tech symbiosis**.  
-Curiosity is the operating system — code is the interface.  
+### Language Mix
+<!-- SIGNAL:LANGUAGES:START -->
+_awaiting first run…_
+<!-- SIGNAL:LANGUAGES:END -->
 
 ---
 
-🛰 **Let’s connect, collaborate, or build something intelligent.**  
-💼 [LinkedIn](https://www.linkedin.com/in/brianlockhart-deviscript/) • 🌐 [Bio Site](https://bio.site/brianlockhart) • 📬 [DeviScript@gmail.com](mailto:DeviScript@gmail.com)
+## Credentials (brief)
+- **UNC–Chapel Hill × edX** — Full-Stack Web Development (24-week intensive)
+- Hands-on across algorithms, DS&A, testing, and real-world deployments
+
+---
+
+## Contact
+**Build with me.**  
+LinkedIn • Bio • Email above.
+
+<!-- End of README -->
+
+
+# File: .github/workflows/readme-dynamic.yml
+name: Update README (Live Signals)
+
+on:
+  schedule:
+    - cron: "17 */8 * * *"   # every 8 hours at :17 (staggered)
+  workflow_dispatch: {}
+  push:
+    paths:
+      - "scripts/update-readme.mjs"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Use Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Run updater
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO_OWNER: ${{ github.repository_owner }}
+        run: |
+          node --version
+          node scripts/update-readme.mjs
+
+      - name: Commit changes (if any)
+        run: |
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "chore(readme): refresh live signals"
+            git push
+          else
+            echo "No changes."
+          fi
+
+
+# File: scripts/update-readme.mjs
+/**
+ * Update README "Signal Log" using only GitHub API + Node built-ins.
+ * - Weekly Pulse: commits/pushes & PRs in last 7 days
+ * - Recent Repositories: latest 5 repos you pushed to
+ * - Language Mix: Mermaid pie from summed language bytes across repos
+ *
+ * Safe, API-only, no third-party cards or images.
+ */
+
+import { readFileSync, writeFileSync } from "node:fs";
+import { resolve } from "node:path";
+import { setTimeout as sleep } from "node:timers/promises";
+
+const GH = process.env.GH_TOKEN;
+const OWNER = process.env.REPO_OWNER;
+
+if (!GH || !OWNER) {
+  console.error("Missing GH_TOKEN or REPO_OWNER");
+  process.exit(1);
+}
+
+const BASE = "https://api.github.com";
+
+async function gh(url) {
+  const res = await fetch(url, {
+    headers: {
+      Authorization: `Bearer ${GH}`,
+      Accept: "application/vnd.github+json",
+      "X-GitHub-Api-Version": "2022-11-28",
+    },
+  });
+  if (!res.ok) {
+    const t = await res.text();
+    throw new Error(`GitHub API error ${res.status} for ${url}: ${t}`);
+  }
+  return res.json();
+}
+
+// Utility: ISO date helpers
+function daysAgo(n) {
+  const d = new Date();
+  d.setDate(d.getDate() - n);
+  return d;
+}
+function withinDays(dateStr, n) {
+  return new Date(dateStr) >= daysAgo(n);
+}
+
+// Fetch recent events to compute pulse
+async function getPulse() {
+  // Up to 3 pages of events (300 events)
+  let page = 1;
+  const per_page = 100;
+  let events = [];
+  while (page <= 3) {
+    const data = await gh(`${BASE}/users/${OWNER}/events?per_page=${per_page}&page=${page}`);
+    events = events.concat(data);
+    if (data.length < per_page) break;
+    page++;
+    await sleep(250);
+  }
+
+  // Filter last 7 days
+  const recent = events.filter(e => withinDays(e.created_at, 7));
+
+  let pushes = 0;
+  let commits = 0;
+  let prsOpened = 0;
+  let issuesOpened = 0;
+
+  for (const e of recent) {
+    if (e.type === "PushEvent") {
+      pushes++;
+      commits += e.payload?.size || 0;
+    }
+    if (e.type === "PullRequestEvent" && e.payload?.action === "opened") prsOpened++;
+    if (e.type === "IssuesEvent" && e.payload?.action === "opened") issuesOpened++;
+  }
+
+  return { pushes, commits, prsOpened, issuesOpened };
+}
+
+// Fetch latest repos you pushed to
+async function getRecentRepos(limit = 5) {
+  const repos = await gh(`${BASE}/users/${OWNER}/repos?per_page=100&sort=updated&type=owner`);
+  const pushed = repos
+    .filter(r => !r.fork)
+    .sort((a, b) => new Date(b.pushed_at) - new Date(a.pushed_at))
+    .slice(0, limit);
+  return pushed.map(r => ({
+    name: r.name,
+    desc: r.description || "",
+    url: r.html_url,
+    stars: r.stargazers_count,
+    updated: r.pushed_at,
+    primary: r.language || "",
+  }));
+}
+
+// Compute language mix by summing bytes across top repos (cap to reduce calls)
+async function getLanguageMix(maxRepos = 30) {
+  const repos = await gh(`${BASE}/users/${OWNER}/repos?per_page=100&type=owner`);
+  const owned = repos.filter(r => !r.fork).slice(0, maxRepos);
+
+  const tallies = {};
+  for (const r of owned) {
+    const langs = await gh(r.languages_url);
+    for (const [lang, bytes] of Object.entries(langs)) {
+      tallies[lang] = (tallies[lang] || 0) + bytes;
+    }
+    await sleep(120); // gentle pacing
+  }
+
+  // Normalize & sort
+  const entries = Object.entries(tallies).sort((a, b) => b[1] - a[1]).slice(0, 8);
+  const total = entries.reduce((acc, [, v]) => acc + v, 0) || 1;
+  return entries.map(([lang, bytes]) => ({ lang, bytes, pct: (bytes / total) * 100 }));
+}
+
+// Renderers
+function renderPulse({ pushes, commits, prsOpened, issuesOpened }) {
+  return [
+    `**Commits (7d):** ${commits} • **Pushes:** ${pushes} • **PRs Opened:** ${prsOpened} • **Issues Opened:** ${issuesOpened}`,
+    "",
+    `_Updated: ${new Date().toISOString().slice(0, 19).replace("T", " ")}Z_`,
+  ].join("\n");
+}
+
+function renderRepos(list) {
+  if (!list.length) return "_No recent repositories found._";
+  return list
+    .map(
+      (r) =>
+        `- **[${r.name}](${r.url})** — ${r.desc || "_no description_"}  \n  ⭐ ${r.stars} • ${r.primary || "n/a"} • updated ${new Date(
+          r.updated
+        ).toISOString().split("T")[0]}`
+    )
+    .join("\n");
+}
+
+function renderLanguages(mix) {
+  if (!mix.length) return "_No language data yet._";
+  const mermaid = [
+    "```mermaid",
+    "pie showData",
+    ...mix.map((m) => `"${m.lang} (${m.pct.toFixed(1)}%)" : ${Math.max(1, Math.round(m.bytes / 1024))}`),
+    "```",
+  ].join("\n");
+
+  const line = mix
+    .map((m) => `**${m.lang}** ${m.pct.toFixed(1)}%`)
+    .join(" • ");
+
+  return `${mermaid}\n\n${line}`;
+}
+
+// Replace between markers
+function replaceSection(src, marker, body) {
+  const start = `<!-- ${marker}:START -->`;
+  const end = `<!-- ${marker}:END -->`;
+  const pattern = new RegExp(`${start}[\\s\\S]*?${end}`, "m");
+  return src.replace(pattern, `${start}\n${body}\n${end}`);
+}
+
+async function main() {
+  const readmePath = resolve(process.cwd(), "README.md");
+  const original = readFileSync(readmePath, "utf8");
+
+  const [pulse, repos, mix] = await Promise.all([getPulse(), getRecentRepos(5), getLanguageMix(30)]);
+
+  let updated = original;
+  updated = replaceSection(updated, "SIGNAL:PULSE", renderPulse(pulse));
+  updated = replaceSection(updated, "SIGNAL:REPOS", renderRepos(repos));
+  updated = replaceSection(updated, "SIGNAL:LANGUAGES", renderLanguages(mix));
+
+  if (updated !== original) {
+    writeFileSync(readmePath, updated);
+    console.log("README updated.");
+  } else {
+    console.log("No change.");
+  }
+}
+
+main().catch((err) => {
+  console.error(err);
+  process.exit(1);
+});
+
+
+# File: package.json
+{
+  "name": "readme-dynamic",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "update": "node scripts/update-readme.mjs"
+  }
+}
