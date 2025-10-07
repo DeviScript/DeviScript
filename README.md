@@ -21,7 +21,13 @@
 
 <!-- HIGHLIGHT CERT BADGE -->
 <p align="center">
-  <img src="./assets/Badge.png?v=2" alt="UNC Coding Full Stack Boot Camp Badge" width="140"/>
+  <a href="https://www.credly.com/badges/fcb4966d-86de-4420-942e-4f7ed5be6959/public_url" target="_blank" rel="noopener">
+    <img src="./assets/Badge.png?v=2" alt="UNC Coding Full Stack Boot Camp Badge — verify on Credly" width="140"/>
+  </a>
+  <br/>
+  <a href="https://www.credly.com/badges/fcb4966d-86de-4420-942e-4f7ed5be6959/public_url" target="_blank" rel="noopener">
+    <img alt="Verify Badge" src="https://img.shields.io/badge/Verify%20on-Credly-FF6A00?style=flat-square&logo=credly&logoColor=white">
+  </a>
 </p>
 
 <p align="center">
