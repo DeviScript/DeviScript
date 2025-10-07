@@ -21,14 +21,16 @@
 
 <!-- HIGHLIGHT CERT BADGE -->
 <p align="center">
-  <a href="https://www.credly.com/badges/fcb4966d-86de-4420-942e-4f7ed5be6959/public_url" target="_blank" rel="noopener">
+  <!-- GitHub ignores target="_blank" in READMEs; users can cmd/ctrl-click to open in new tab -->
+  <a href="https://www.credly.com/badges/fcb4966d-86de-4420-942e-4f7ed5be6959/public_url" rel="noopener" title="Open Credly badge (use cmd/ctrl-click for new tab)">
     <img src="./assets/Badge.png?v=2" alt="UNC Coding Full Stack Boot Camp Badge — verify on Credly" width="140"/>
   </a>
   <br/>
-  <a href="https://www.credly.com/badges/fcb4966d-86de-4420-942e-4f7ed5be6959/public_url" target="_blank" rel="noopener">
-    <img alt="Verify Badge" src="https://img.shields.io/badge/Verify%20on-Credly-FF6A00?style=flat-square&logo=credly&logoColor=white">
+  <a href="https://www.credly.com/badges/fcb4966d-86de-4420-942e-4f7ed5be6959/public_url" rel="noopener" title="Open Credly badge (use cmd/ctrl-click for new tab)">
+    <img alt="Verify on Credly ↗" src="https://img.shields.io/badge/Verify%20on-Credly-FF6A00?style=flat-square&logo=credly&logoColor=white">
   </a>
 </p>
+
 
 <p align="center">
   <b>Building layered, dynamic, future-oriented products in React/Next.js, Tailwind, shaders, and AI — with clean, scalable architecture.</b>
