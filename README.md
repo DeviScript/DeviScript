@@ -18,8 +18,7 @@ My current focus:
 - Engineering **microservice architectures** with **GraphQL** and **serverless functions**  
 - Designing **modular, monetizable ecosystems** that integrate AI, UX, and commerce  
 
-🎓 Certified in **Full-Stack Web Development (UNC-Chapel Hill x edX)**  
-— an immersive 24-week program emphasizing project-based mastery across full-stack architecture, computer science fundamentals, and real-world deployments.
+🎓 Certified in **Full-Stack Web Development (UNC–Chapel Hill × edX)** — an immersive 24-week program emphasizing project-based mastery across full-stack architecture, CS fundamentals, and real-world deployments.
 
 ---
 
@@ -39,8 +38,8 @@ My current focus:
 
 ## 🧮 Tech Stack Snapshot  
 ![React](https://img.shields.io/badge/React-0A74DA?logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-3C873A?logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-3C873A?logo=nodedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)
@@ -66,18 +65,32 @@ Stack: React • Python • LangChain • Pinecone • Docker
 
 ---
 
-## 📊 Metrics & Activity  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brianlockhart-deviscript&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brianlockhart-deviscript&layout=compact&theme=radical)
-![Streak Stats](https://streak-stats.demolab.com/?user=brianlockhart-deviscript&theme=radical)
+## 📊 Metrics & Activity
+<!--
+If images fail to load, it’s usually a rate limit on the public instance.
+Two fixes:
+1) Confirm username matches your GitHub handle exactly: brianlockhart-deviscript
+2) Self-host GitHub Readme Stats on Vercel (one-click) and replace the base URL below with your deployment URL.
+-->
+
+<!-- GitHub Readme Stats (primary) -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brianlockhart-deviscript&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=86400&theme=radical)
+
+<!-- Top Languages (use langs_count + card_width for stability) -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brianlockhart-deviscript&layout=compact&langs_count=10&card_width=360&cache_seconds=86400&theme=radical)
+
+<!-- Optional lightweight badges that never break (leave commented or enable as fallback)
+![Followers](https://img.shields.io/github/followers/brianlockhart-deviscript?style=flat&label=Followers)
+![Profile Views](https://komarev.com/ghpvc/?username=brianlockhart-deviscript)
+-->
 
 ---
 
 ## ⚡ Philosophy  
 > “Code is the closest thing to thought made tangible.”  
 
-Every project I build is an experiment in **systems thinking**, **design intelligence**, and **human-tech symbiosis**.  
-Curiosity is the operating system — code is just the interface.  
+Every project I build is an experiment in **systems thinking**, **design intelligence**, and **human–tech symbiosis**.  
+Curiosity is the operating system — code is the interface.  
 
 ---
 
