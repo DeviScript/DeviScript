@@ -91,11 +91,15 @@
 
 <!-- ========== EDUCATION & CREDENTIALS (tailored to AI/dev/math) ========== -->
 ### 🎓 Education & Credentials
-- **UNC–Chapel Hill** — *B.A., Interdisciplinary Innovation* (Dec 2023)  
-  <img src="https://img.shields.io/badge/GPA-4.00-2ea44f?style=flat-square"> <img src="https://img.shields.io/badge/Dean's%20List-Consecutive-0ea5e9?style=flat-square">
+
+**UNC–Chapel Hill** — *B.A., Interdisciplinary Innovation* (Dec 2023)  
+**GPA:** 4.00 • **Honors:** Dean’s List (consecutive)
 
 <details open>
 <summary><b>Interdisciplinary Studies Focus — AI • Software Development • Applied Math</b></summary>
+
+</details>
+
 
 <!-- Micro-highlights row -->
 <p>
