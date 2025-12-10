@@ -74,11 +74,11 @@
 
 <!-- ========== SNAPSHOT CARDS (Theme-Aware) ========== -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeviScript&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DeviScript&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=DeviScript&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeviScript&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DeviScript&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
