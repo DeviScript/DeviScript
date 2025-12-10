@@ -74,20 +74,11 @@
 
 <!-- ========== SNAPSHOT CARDS (Theme-Aware) ========== -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=DeviScript&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400" />
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DeviScript&show_icons=true&hide_border=true&theme=default&include_all_commits=true&count_private=true&cache_seconds=86400" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=DeviScript&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=DeviScript&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=DeviScript&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-  </picture>
+  <img src="https://streak-stats.demolab.com?user=DeviScript&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DeviScript&layout=compact&hide_border=true&theme=tokyonight&langs_count=10&cache_seconds=86400" />
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeviScript&layout=compact&hide_border=true&theme=default&langs_count=10&cache_seconds=86400" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeviScript&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
